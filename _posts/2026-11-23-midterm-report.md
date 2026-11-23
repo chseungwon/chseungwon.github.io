@@ -1,5 +1,5 @@
 ---
-title: "[AI+X 딥러닝] 오토인코더로 수상한 분개 찾기 (중간보고)"
+title: "[AI+X 딥러닝] 딥러닝 오토인코더를 활용한 분개 데이터 이상탐지: 전통적 JET와의 비교 (중간보고)"
 date: 2026-11-23 17:00:00 +0900
 categories: [AI+X, Deep Learning]
 tags: [autoencoder, anomaly detection, audit, jet]
